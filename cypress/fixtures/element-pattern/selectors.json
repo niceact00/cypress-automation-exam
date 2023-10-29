@@ -1,0 +1,153 @@
+{
+    "locators":{
+        "useNecessaryCookiesOnly":{
+            "selector": "#cookie-allow-necessary-button"
+        },
+        "allowSelection":{
+            "selector": "#cookie-allow-selection-button"
+        },
+        "allowAllCookies": {
+            "selector": "#cookie-allow-all-button"
+        },
+        "loginButton": {
+            "selector": ".mt-2 > .ml-auto"
+        },
+        "loginEmailTextField": {
+            "selector": "#login-email"
+        },
+        "loginPasswordTextField": {
+            "selector": "#login-password"
+        },
+        "loginButtonInLoginPage": {
+            "selector": ".position-relative > .btn"
+        },
+        "submitNewApplication": {
+            "selector": ".page-main__content-wrapper > .btn"
+        },
+        "continueWithSubmissionOfApplication": {
+            "selector": ".list-unstyled > :nth-child(1) > .btn"
+        },
+        "submitNewApplicationAtTheButtom": {
+            "selector": "section > .text-center > .btn"
+        },
+        "userIcon":{
+            "selector": "#user-menu > .material-icons"
+        },
+        "fromUserIconSubmitNewApplication": {
+            "selector": "body > div.page-wrapper.min-vh-100.d-flex.flex-column > header > div > div > div > div > a:nth-child(3)"
+        },
+        "fileUpload": {
+            "selector": "[type='file']"
+        },
+        "firstName": {
+            "selector": "[aria-label='First name']"
+        },
+        "lastName": {
+            "selector": "[aria-label='Last name']"
+        },
+        "address": {
+            "selector": "[aria-label='Unit no/House no, Street']"
+    
+        },
+        "postalCode": {
+            "selector": "[class='form-control ui-autocomplete-input']"
+        },
+        "postalCodeAutoCompleteFirstResult": {
+            "selector": "[class='ui-menu-item'] > [class='ui-corner-all']"
+        },
+        "country": {
+            "selector": "[class='custom-select    locationCountry']"
+        },
+        "role": {
+            "selector": "[class='custom-select']"
+        },
+        "male": {
+            "selector": "#container_f3fa11a5-a516-5cec-9025-b940b1b113d0 > label > div > div.custom-control-label.radio-checkbox-li-element-label"
+        },
+        "female": {
+            "selector": "#container_514632f0-b9ec-5946-997e-f486fcd8276c > label > div > div.custom-control-label.radio-checkbox-li-element-label"
+        },
+        "preferNotToSay": {
+            "selector": "#container_f9291e23-4c53-56d3-8115-45818912be01 > label > div > div.custom-control-label.radio-checkbox-li-element-label"
+        },
+        "spreadSheet": {
+            "selector": "#container_3fe36edc-80b0-5574-b7ad-7cfe074acfc1 > label > div > div.custom-control-label.radio-checkbox-li-element-label"
+        },
+        "jira": {
+            "selector": "#container_5ab6a927-7b72-5869-acc3-0db0858bc495 > label > div > div.custom-control-label.radio-checkbox-li-element-label"
+        },
+        "testManagementTool": {
+            "selector": "#container_f49b4d08-527e-5edc-9acd-5386bb2e188d > label > div > div.custom-control-label.radio-checkbox-li-element-label"
+        },
+        "sql": {
+            "selector": "#container_36c255b7-8d7c-50b9-8e75-b2ae9a57185b > label > div > div.custom-control-label.radio-checkbox-li-element-label"
+        },
+        "java": {
+            "selector": "#container_9ae096b7-77d8-5dca-98fd-c19b4bf28688 > label > div > div.custom-control-label.radio-checkbox-li-element-label"
+        },
+        "javascript": {
+            "selector": "#container_a644a821-4a62-5c1a-8b4c-281eb3253605 > label > div > div.custom-control-label.radio-checkbox-li-element-label"
+        },
+        "python": {
+            "selector": "#container_92dcaa01-633c-5db1-ac87-e003906567ea > label > div > div.custom-control-label.radio-checkbox-li-element-label"
+        },
+        "testNg": {
+            "selector": "#container_cd796b3f-f6dd-5449-8c51-f9c886918bf2 > label > div > div.custom-control-label.radio-checkbox-li-element-label"
+        },
+        "cucumber": {
+            "selector": "#container_8ea15213-d487-50b7-b6e1-73d26826b37e > label > div > div.custom-control-label.radio-checkbox-li-element-label"
+        },
+        "robotFramework": {
+            "selector": "#container_773e5289-f4b3-5d6d-ac81-5c99e2b39acd > label > div > div.custom-control-label.radio-checkbox-li-element-label"
+        },
+        "cypress": {
+            "selector": "#container_9bbcf3da-3757-5bf3-92cf-ac4694653f45 > label > div > div.custom-control-label.radio-checkbox-li-element-label"
+        },
+        "iframeOfTextField": {
+            "selector": "[class='cke_wysiwyg_frame cke_reset']"
+        },
+        "nextScreen": {
+            "selector": "#navButtonNext"
+        },
+        "firstNameSummary": {
+            "selector": "#container_629d7b5a-f6a1-5a14-ac1d-21b2fafdbdef > div"
+        },
+        "lastNameSummary": {
+            "selector": "#container_23e5e47e-bab1-5a1e-9929-f180182bda43 > div"
+        },
+        "addressSummary": {
+            "selector": "#container_c3f44a2e-72e9-587b-b88c-b5c9fbeed2db > p"
+        },
+        "postalCodeSummary": {
+            "selector": "#container_e57df0b5-c2ad-514a-967f-ee8b962f5ed4 > p"
+        },
+        "countrySummary": {
+            "selector": "#container_7e595970-fc12-558c-9eaf-385735fcae6b > p"
+        },
+        "uploadedPhotoSummary": {
+            "selector": "#container_d370f504-7ff5-509f-babb-d80126387290 > div > ul > li > a"
+        },
+        "genderSummary": {
+            "selector": "#container_f3fa11a5-a516-5cec-9025-b940b1b113d0"
+        },
+        "roleSummary": {
+            "selector": "#container_f801d7d8-0762-5407-95f9-b8c3a793157c > div > p"
+            
+        },
+        "familiarToolsSummary": {
+            "selector": "#field_9f5a0b89-6465-5ca8-8a51-11074944b998"
+        },
+        
+        "careerObjectiveSummary": {
+            "selector": "#container_91296806-02e6-5bb5-bac0-deb4cbf64a64 > div > div > p"
+        },
+
+        "validateAndSend": {
+            "selector": ".d-none > #submitButton"
+        },
+        "thankYouForSubmitting": {
+            "selector": "#content > div > div > div > div > div > h1"
+        }
+        
+    }
+}
