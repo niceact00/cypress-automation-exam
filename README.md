@@ -8,7 +8,7 @@
 -visual studio code(Ide)
 
 ### After cloning this repo:
-1. open terminal and run, 'cd cypress-automation-exam'
+1. Open terminal and run, 'cd cypress-automation-exam'
 2. Run 'npm install' to make sure all modules are installed.
 
 ### Open Cypress with
